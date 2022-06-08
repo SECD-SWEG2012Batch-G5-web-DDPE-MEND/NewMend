@@ -3,7 +3,7 @@ Read me
 Name of the Database: menddatabase
 Password: none
 User manual
-        This website has three sides the admin, customer, and worker side.
+This website has three sides the admin, customer, and worker side.
 Admin side 
           Username: tensae30@gmail.com
            Password:456
